@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+html {
+
+  font-family: 'Gloria Hallelujah', cursive;
+
+    @apply bg-[#1D1E22] scroll-smooth  
+
+}
